@@ -1,6 +1,7 @@
 html {
   font-size: 16px;
   font-family: "Black Ops One", cursive;
+  color: rgb(17, 17, 116);
 }
 
 body {
@@ -9,11 +10,11 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  opacity: 50%;
+  opacity: 65%;
 }
 
 a {
-  color: black;
+  color: rgb(17, 17, 116);
 }
 
 header {
@@ -41,7 +42,7 @@ nav {
 }
 
 nav p {
-  background-image: linear-gradient(lightcoral, yellow, yellow, yellow, lightcoral);
+  background-image: linear-gradient(lightcoral, orange, orange, orange, lightcoral);
   border-top: 0.2rem solid black;
   border-bottom: 0.2rem solid black;
   border-radius: .6rem;
@@ -55,7 +56,7 @@ nav a {
 section,
 header,
 footer {
-  background-image: linear-gradient(lightcoral, yellow, yellow, yellow, lightcoral);
+  background-image: linear-gradient(lightcoral, orange, orange, orange, lightcoral);
   border-radius: 1rem;
   border-top: 0.2rem solid black;
   border-bottom: 0.2rem solid black;
@@ -65,7 +66,7 @@ footer {
 }
 #missions h5{
   font-family: Creepster, cursive;
-  opacity: 30%;
+  opacity: 60%;
 }
 
 #spys, #cars, #headq div {
@@ -96,14 +97,14 @@ footer {
 }
 #headq p {
   font-family: Creepster, cursive;
-  opacity: 30%;
+  opacity: 60%;
 }
 #contact h2 {
   border-bottom: 1rem;
 }
 #contact h3 a {
   text-decoration: none;
-  background-image: linear-gradient(lightcoral, yellow, yellow, yellow, lightcoral);
+  background-image: linear-gradient(lightcoral, orange, orange, orange, lightcoral);
   border-radius: 1rem;
   border-top: 0.2em solid black;
   border-bottom: 0.2em solid black;
