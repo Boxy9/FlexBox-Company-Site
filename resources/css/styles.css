@@ -130,7 +130,10 @@ footer {
     justify-content: center;
   }
   #contact h3 {
-    text-align: end;
+    text-align: center;
+  }
+  #contact p {
+    margin-top: 2.5em;
   }
 }
 
